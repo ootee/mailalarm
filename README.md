@@ -5,7 +5,7 @@ Alarm for arriving (physical) mail made with wireless door bell and mercury swit
 
 * remote door bell from eg. [Tokmanni](https://www.tokmanni.fi/langaton-ovikello-6438114420812)
 * mercury switches from [eBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=mercury+switch)
-* adequate piece of two-wire cable
+* a piece of two-wire cable
 * soldering iron and some soldering wire
 * electric tape
 * magnets

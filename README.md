@@ -36,7 +36,7 @@ Tape some more magnets to the case for mounting inside the mailbox.
 
 The door bell receiver was left pretty much original with the exception of some electric tape over the speaker to dampen the alarm tone.
 
-![transmitter placement]https://raw.githubusercontent.com/ootee/mailalarm/main/images/transmitter_inside_mailbox.jpg)
+![transmitter placement](https://raw.githubusercontent.com/ootee/mailalarm/main/images/transmitter_inside_mailbox.jpg)
 
 Secure the transmitter inside the mailbox with help of magnets. You can tuck the excess cord between the receiver and sidewall of the box.
 

@@ -12,7 +12,7 @@ Alarm for arriving (physical) mail made with wireless door bell and mercury swit
 
 ## making of
 
-Disassemble the transmitter and locate the pins of push button on the circuit board.
+Disassemble the transmitter and locate the pins of the push button on the circuit board.
 
 ![wiring on the circuit board](https://raw.githubusercontent.com/ootee/mailalarm/main/images/wiring.jpg)
 
@@ -31,4 +31,18 @@ Reassemble the case.
 ![magnets for mounting](https://raw.githubusercontent.com/ootee/mailalarm/main/images/magnets.jpg)
 
 I taped some more magnets to the case for mounting inside the mailbox.
+
+![receiver](https://raw.githubusercontent.com/ootee/mailalarm/main/images/receiver.jpg)
+
+The door bell receiver was left pretty much original with the exception of some electric tape over the speaker to dampen the alarm tone.
+
+![transmitter placement]https://raw.githubusercontent.com/ootee/mailalarm/main/images/transmitter_inside_mailbox.jpg)
+
+Secure the transmitter inside the mailbox with help of magnets. You can tuck the excess cord between the receiver and sidewall of the box.
+
+![location of the switch on the lid](https://raw.githubusercontent.com/ootee/mailalarm/main/images/switch_on_lid.jpg)
+
+Place the switch on the lid of the mailbox so that mercury makes contact with the pins when the lid is opened.
+
+
 
